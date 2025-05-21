@@ -1,6 +1,9 @@
 !.mvn/
 !.mvnw
 !.mvnw.cmd
-.idea
 .git
 .gitignore
+target/
+.idea/
+.env
+*.iml

@@ -4,6 +4,12 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+# Local env
+.env
+# OS/editor files
+.DS_Store
+Thumbs.db
+
 ### STS ###
 .apt_generated
 .classpath
