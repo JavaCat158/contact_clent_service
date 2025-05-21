@@ -3,7 +3,6 @@
 !.mvnw.cmd
 .git
 .gitignore
-target/
 .idea/
 .env
 *.iml
